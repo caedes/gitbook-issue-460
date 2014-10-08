@@ -1,0 +1,8 @@
+{
+  "name": "gitbook-issue-460",
+  "version": "0.0.1",
+  "description": "",
+  "dependencies": {
+    "gitbook": "^1.1.0"
+  }
+}
